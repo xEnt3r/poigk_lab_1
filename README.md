@@ -1,4 +1,5 @@
 # poigk_lab_1
+![Uploading asteroidy.gif…]()
 
 Dodano:
 - paski życia asteroid
