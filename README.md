@@ -1,6 +1,4 @@
 # poigk_lab_1
-![Uploading asteroidy.gif…]()
-
 Dodano:
 - paski życia asteroid
 - wygląd tła
@@ -10,3 +8,5 @@ Dodano:
 - zmieniono wygląd pasku życia statku
 - zmieniono kolor pocisków
 - zmieniono wygląd statku
+
+![asteroidy](https://github.com/user-attachments/assets/1f058dc5-75b8-49e2-ae06-bec9bbbf406d)
